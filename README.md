@@ -14,6 +14,7 @@ I make Windows apps and developer tools. Mostly C#, PowerShell, and JavaScript.
 
 - **[Skill Updater](https://github.com/sixmillorcore-star/skill-updater)** — Manage Codex and Claude Code skills from a Windows app. [Download](https://github.com/sixmillorcore-star/skill-updater/releases/latest)
 - **[Prompt Optimizer](https://github.com/sixmillorcore-star/prompt-optimizer)** — Organize Thai and English prompts locally. [Download](https://github.com/sixmillorcore-star/prompt-optimizer/releases/latest)
+- **[File Checksum](https://github.com/sixmillorcore-star/file-checksum)** — Calculate and compare SHA-256 checksums offline. [Download](https://github.com/sixmillorcore-star/file-checksum/releases/latest)
 - **[Discord Control MCP](https://github.com/sixmillorcore-star/discord-control-mcp)** — Connect MCP clients to the Discord bot API.
 
 Each project has setup instructions in English and Thai.
