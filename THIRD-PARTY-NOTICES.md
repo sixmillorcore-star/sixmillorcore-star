@@ -2,19 +2,17 @@
 
 ## Devicon
 
-The C#, PowerShell, JavaScript, Node.js, and .NET silhouettes in `assets/csharp.svg`, `assets/powershell.svg`, `assets/javascript.svg`, `assets/nodejs.svg`, and `assets/dotnet.svg` are derived from [Devicon](https://github.com/devicons/devicon).
+The technology icons below are unmodified original artwork from [Devicon](https://github.com/devicons/devicon), saved byte-for-byte from the pinned source files. No recoloring, framing, labels, or other artwork modifications have been applied.
 
-Source commit: `6a37858047b0e8d9c9c0e68f4a071fc410652e89` (verified against the official repository's master branch on 2026-10-22).
+Source commit: `6a37858047b0e8d9c9c0e68f4a071fc410652e89`.
 
-Source files:
-
-- https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/csharp/csharp-plain.svg
-- https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/powershell/powershell-plain.svg
-- https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/javascript/javascript-plain.svg
-- https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/nodejs/nodejs-plain.svg
-- https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/dot-net/dot-net-plain.svg
-
-Modifications: retained the original SVG paths; changed their fill to mint (#87E8CC), placed them in 112 × 104 charcoal tiles, and added text labels and accessible descriptions. JavaScript's original path contains letter cutouts, which reveal the dark tile background. No external images, fonts, scripts, or other runtime resources are used.
+| Local file | Upstream source |
+| --- | --- |
+| `assets/icons/csharp-original.svg` | [C#](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/csharp/csharp-original.svg) |
+| `assets/icons/powershell-original.svg` | [PowerShell](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/powershell/powershell-original.svg) |
+| `assets/icons/javascript-original.svg` | [JavaScript](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/javascript/javascript-original.svg) |
+| `assets/icons/nodejs-original.svg` | [Node.js](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/nodejs/nodejs-original.svg) |
+| `assets/icons/dotnet-original.svg` | [.NET Framework](https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/dot-net/dot-net-original.svg) |
 
 Product names, logos, and brands belong to their respective owners. Their inclusion identifies technologies used by this profile's projects and does not imply endorsement.
 
